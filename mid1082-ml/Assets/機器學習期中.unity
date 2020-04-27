@@ -421,7 +421,7 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   maxStep: 0
   colrobot: {fileID: 0}
-  speed: 10
+  speed: 50
 --- !u!114 &603081495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -442,7 +442,7 @@ MonoBehaviour:
     vectorActionSpaceType: 1
   m_Model: {fileID: 0}
   m_InferenceDevice: 0
-  m_BehaviorType: 1
+  m_BehaviorType: 0
   m_BehaviorName: robot brain
   TeamId: 0
   m_UseChildSensors: 1
